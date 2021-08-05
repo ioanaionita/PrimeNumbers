@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ioanaionita/Projects/PrimeNumbers/PrimeNumbers/PrimeNumbers.csproj": {}
+  },
+  "projects": {
+    "/Users/ioanaionita/Projects/PrimeNumbers/PrimeNumbers/PrimeNumbers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ioanaionita/Projects/PrimeNumbers/PrimeNumbers/PrimeNumbers.csproj",
+        "projectName": "PrimeNumbers",
+        "projectPath": "/Users/ioanaionita/Projects/PrimeNumbers/PrimeNumbers/PrimeNumbers.csproj",
+        "packagesPath": "/Users/ioanaionita/.nuget/packages/",
+        "outputPath": "/Users/ioanaionita/Projects/PrimeNumbers/PrimeNumbers/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ioanaionita/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
